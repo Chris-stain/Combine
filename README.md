@@ -1,6 +1,8 @@
 # Combine
 A c++ program that combines two arrays.
 
+# My Result
+![combineArray](https://user-images.githubusercontent.com/6588703/59457441-3ea00f80-8dcd-11e9-8dfc-f72366e706ad.PNG)
 
 Create a function named combine. Its parameters are an array of integers, the size of the array, a second array of integers, and the size of the second array.
 
